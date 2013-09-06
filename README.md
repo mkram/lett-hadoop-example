@@ -1,6 +1,6 @@
-let-hadoop
-==========
+lettuce-hadoop-example
+======================
 
-A simple application that demonstrates behaviour driven approach for developing MapReduce application using Lettuce framework
+An example that demonstrates behaviour driven approach for developing MapReduce application using Lettuce framework
 
 
